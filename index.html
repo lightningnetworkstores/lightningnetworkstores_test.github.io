@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Mainnet Lightning Network Stores</title>
+        <script
+                src="js/jquery-3.3.1.min.js"
+                integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+                crossorigin="anonymous"></script>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="js/main.js"></script>
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74119866-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-74119866-1');
+	</script>
+	
+	<script>
+		function showListOptions(){
+			document.getElementById("sectors").classList.toggle("show");
+		}
+		
+		function showListOptionsDelivery(){
+			document.getElementById("deliveries").classList.toggle("show");
+		}
+		
+		function showListOptionsSizes(){
+			document.getElementById("sizes").classList.toggle("show");
+		}
+		
+		function showListOptionsNew(){
+			document.getElementById("new").classList.toggle("show");
+		}
+		
+		// Close the dropdown if the user clicks outside of it
+		window.onclick = function(event) {
+		  if (!event.target.matches('button')) {
+
+			var dropdowns = document.getElementsByClassName("dropdown-menu");
+			var i;
+			for (i = 0; i < dropdowns.length; i++) {
+			  var openDropdown = dropdowns[i];
+			  if (openDropdown.classList.contains('show')) {
+				openDropdown.classList.remove('show');
+			  }
+			}
+		  }
+		}
+		
+	
+	</script>
+
+	<style>
+		.panel { 
+				margin-top: 1em;
+			   }
+
+		.dropdown { margin-right: 1em; }
+		<!--.text-muted {margin-bottom: 1px; } -->
+	</style>
+	
+    </head>
+    <body>
+
+    <div class="container">
+        <div class="text-center" id="banner">
+            <h1 id="title"><i class="fa fa-bolt"></i> Mainnet lightning network stores <i class="fa fa-bolt"></i></h1>
+        </div>
+        <hr>
+        <p><strong>Warning:</strong> Lightning network software is still in beta phase, so it is recommended to use small amounts of money. For testing, use the testnet. A list of lightning network stores for the testnet can be found <a href="https://lightningnetworkstores.github.io/testnet">here</a>.</p>
+        <hr>
+	<p>If you are not a technical user, you can make lightning payments with <a href="https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en">eclair wallet for android</a></p>
+	<hr>
+	
+	<div class="btn-group">
+
+	<div class="dropdown">
+	  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="Sector" aria-haspopup="true" aria-expanded="false" onclick="showListOptions()">
+		Sector: all
+	  </button>
+	  <div id="sectors" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+		<a class="dropdown-item" href="#">technology</a>
+		<a class="dropdown-item" href="#">security</a>
+		<a class="dropdown-item" href="#">clothing</a>
+		<a class="dropdown-item" href="#">exchange</a>
+		<a class="dropdown-item" href="#">food</a>
+		<a class="dropdown-item" href="#">other</a>
+		<a class="dropdown-item" href="#">all</a>
+	  </div>
+	</div>
+	
+	<br>
+	
+	<div class="dropdown">
+	  <button class="btn btn-secondary dropdown-toggle" type="button" id="DeliveryDropdownButton" data-toggle="Sector" aria-haspopup="true" aria-expanded="false" onclick="showListOptionsDelivery()">
+		Digital goods: all
+	  </button>
+	  <div id="deliveries" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+		<a class="dropdown-item" href="#">yes</a>
+		<a class="dropdown-item" href="#">no, goods shipped</a>
+		  <a class="dropdown-item" href="#">no, goods only in-store</a>
+		<a class="dropdown-item" href="#">all</a>
+	  </div>
+	  <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" data-html="true" title="Digital goods can be immediately sent to you via internet like an e-book, music file, currency, online-services, etc.">
+	  ?
+	</button>
+	</div>
+	
+	<br>
+	
+	<div class="dropdown">
+	  <button class="btn btn-secondary dropdown-toggle" type="button" id="SizeDropdownButton" data-toggle="Sector" aria-haspopup="true" aria-expanded="false" onclick="showListOptionsSizes()">
+		Size: big
+	  </button>
+	  <div id="sizes" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+		<a class="dropdown-item" href="#">small</a>
+		<a class="dropdown-item" href="#">big</a>
+		<a class="dropdown-item" href="#">all</a>
+	  </div>
+	  <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" data-html="true" title="A small store is a store that sells five goods or less or has an Alexa traffic rank worse than 1MM">
+	  ?
+	</button>
+	</div>
+	
+	<br>
+	
+	<div class="dropdown">
+	  <button class="btn btn-secondary dropdown-toggle" type="button" id="NewDropdownButton" data-toggle="Sector" aria-haspopup="true" aria-expanded="false" onclick="showListOptionsNew()">
+		New: all
+	  </button>
+	  <div id="new" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+		<a class="dropdown-item" href="#">yes</a>
+		<a class="dropdown-item" href="#">no</a>
+		<a class="dropdown-item" href="#">all</a>
+	  </div>
+	  <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" data-html="true" title="A store is new if it was added to this repository less than one week ago">
+	  ?
+	</button>
+	</div>
+
+	</div> <!-- end div.btn-group -->
+		
+		
+        <div id="main-content">
+        </div>
+
+        <div id="soon-content">
+            <h1 class="text-info">Coming Soon?</h1>
+            <br>
+        </div>
+
+        <h5>Know a store that is not listed here? <a href="https://github.com/lightningnetworkstores/lightningnetworkstores.github.io">Add it to the git repository</a> or send an email to lightningnetworkstores@gmail.com</h5>
+
+        <h5>For other lightning network resources visit <a href="https://lnroute.com/">LNroute</a> or <a href="http://lopp.net/bitcoin.html">Lopp.net</a></h5>
+    </div>
+    </body>
+</html>

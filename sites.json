@@ -1,0 +1,384 @@
+[
+   {
+      "href":"https://bitcoin-lightning.de/",
+      "uri":"03f02d965aea25de84613ad2be36573d2bd8c6d6dd47d9a516d233098c281d3ae7@85.25.255.147:9735",
+      "name":"Bitcoin-Lightning.de",
+      "description":"Buy lightning-themed shirts.",
+      "sector":"clothing",
+      "size":"big",
+      "added":1527013270,
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://torguard.net/",
+      "uri":"03557fd11b58cb93d2ad4fab4dd4cff7462a97e21e8f6b7a712cb8bd27a96b9eef@188.166.23.129:9735",
+      "name":"TorGuard",
+      "description":"Anonymous VPN and Proxy",
+      "sector":"technology",
+      "size":"big",
+      "digital_goods":"yes"
+   },
+   {
+      "href":"https://store.blockstream.com/shop/",
+      "uri":"02f6725f9c1c40333b67faea92fd211c183050f28df32cac3f9d69685fe9665432@104.198.32.198:9735",
+      "name":"Blockstream shop",
+      "description":"T-shirts, sweatshirts and stickers",
+      "sector":"clothing",
+      "size":"big",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://mainnet.yalls.org/",
+      "uri":"03e50492eab4107a773141bb419e107bda3de3d55652e6e1a41225f06a0bbf2d56@mainnet-lnd.yalls.org",
+      "name":"Y'alls",
+      "description":"Buy and sell articles with other members",
+      "sector":"other",
+      "size":"big",
+      "digital_goods":"yes",
+      "popular":"yes"
+   },
+   {
+      "href":"https://bitbargain.co.uk/",
+      "uri":"032271efcb35188ef00e3f28469a2bb18b50a5f2f325bd130bdac341af24e9b5f0@37.221.209.222:9735",
+      "name":"Bitbargain",
+      "description":"UK bitcoin exchange.",
+      "digital_goods":"yes",
+      "sector":"exchange"
+   },
+   {
+      "href":"https://bitrefill.com/",
+      "uri":"024a2e265cd66066b78a788ae615acdc84b5b0dec9efac36d7ac87513015eaf6ed@lnd.bitrefill.com:9735",
+      "name":"Bitrefill",
+      "description":"Buy phone topups, steam vouchers and other products!",
+      "digital_goods":"yes",
+      "sector":"technology",
+      "popular":"yes"
+   },
+   {
+      "href":"https://sogbazaar.com",
+      "uri":"0313f9449cdb528dc9707c02da507cc9306eedc415091c07dc75dcdf621844a5ab@69.15.179.58:9735",
+      "name":"SoGBazaar",
+      "description":"Posters and digital cards",
+      "sector":"other",
+      "digital_goods":"yes",
+      "size":"small"
+   },
+   {
+      "href":"https://www.coinmall.com/",
+      "uri":"032b31feacb6d645c9a83a015d2b52d549205ef515ddea9f0a6b8a4a657eefec3a@94.130.239.161:9735",
+      "name":"CoinMall",
+      "description":"Buy and sell digital goods (e-books, videos, music, ...)",
+      "sector":"other",
+      "digital_goods":"yes"
+   },
+   {
+      "href":"http://www.blockandjerrys.fun/",
+      "uri":"unknown",
+      "name":"Block & Jerry's",
+      "description":"Buy ice cream and get it delivered in San Francisco from 9am to 10pm",
+      "digital_goods":"no, goods shipped",
+      "sector":"food"
+   },
+   {
+      "href":"https://hodlmonkey.com/",
+      "uri":"039376f846cb4e137f3474baa7fbe74ec627745c7d5c54935b99fbb1b60a62c9b3@159.65.162.130:9735",
+      "name":"Hodl Monkey",
+      "description":"Buy cryptocurrency themed T-shirts",
+      "sector":"clothing",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://ludvigart.com/",
+      "uri":"0357712cde38c9e82044ce5070473585e35dcb6069014a7e31a28968f5d839bab4@97.90.42.34:9735",
+      "name":"Ludvig Art",
+      "description":"Buy bitcoin themed paintings",
+      "digital_goods":"no, goods shipped",
+      "sector":"other"
+   },
+   {
+      "href":"https://billfodl.com/",
+      "uri":"0270762bf41cd8f022877f8ae4f6cd9fc3ba26ed020705a6313f1e91ceeb729ca3@188.166.251.115:9735",
+      "name":"Billfodl",
+      "description":"Buy a hard fire-proof physical wallet",
+      "digital_goods":"no, goods shipped",
+      "sector":"security",
+      "added":1523577600
+   },
+   {
+      "href":"https://www.bitstarz.com/",
+      "uri":"03b2ff042bcc564de35c2beb17e175ec1315011fee63070617fa7e11f55308d76f@35.204.246.146:9735",
+      "name":"bitStarz",
+      "description":"Cryptocurrency casino",
+      "flags":{
+         "coming_soon":1
+      },
+      "digital_goods":"yes",
+      "sector":"other"
+   },
+   {
+      "href":"https://www.coincards.ca/",
+      "uri":"0312c02755c6a3475f872be27e71fdb7703a61a25777401a26125e1c772c7e0f6a@192.95.29.22:9735",
+      "name":"Coincards.ca",
+      "description":"Canadian Bitcoin to Gift Card Marketplace - $20 Amazon.ca Gift Cards Available for Purchase with Lightning",
+      "sector":"other",
+      "digital_goods":"yes"
+   },
+   {
+      "href":"http://bitcoinshirt.co/",
+      "uri":"039195c0969d69f9a25839cb44bd5e858bd9e3971638959f0e657bffa6692b43f1@13.92.141.163:9735",
+      "name":"Bitcoin Shirt",
+      "description":"Selling high-quality and unique Bitcoin merchandise",
+      "sector":"clothing",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://lightningshop.eu/",
+      "uri":"03a8f92735a6e7aac231ec46d51f0b9e84aeed6ce8abd76431849b4e76e9745bfb@88.99.164.229:9735",
+      "name":"Lightning Shop EU",
+      "description":"Selling funny Bitcoin merchandise with a charity purpose",
+      "sector":"clothing",
+      "digital_goods":"no, goods shipped",
+      "size":"small"
+   },
+   {
+      "href":"https://btcduke.com/?lang=en",
+      "uri":"0328fbda8c1efcdb5ef375742710de71b9bcc93dbb16af22e2cf3ac84eea47dab2@80.211.252.104:9735",
+      "name":"BTC Duke",
+      "description":"Cryptocurrency exchange that supports bitcoin lightning deposits/withdrawals",
+      "sector":"exchange",
+      "digital_goods":"yes"
+   },
+   {
+      "href":"https://bitcoinlightning.shop",
+      "uri":"03635fa1d555e95f6d7d30783542dbe8538d80b2bd5924ccd5938f70faa826254e@52.226.75.40:9735",
+      "name":"BitcoinLightning.shop",
+      "description":"Buy domain names, lightning nodes, and web hosting services.",
+      "sector":"technology",
+      "digital_goods":"yes"
+   },
+   {
+      "href":"https://moonbanking.com/api",
+      "uri":"02b3877314aff657216ceac039244fe94e7116af10cfffac0232fefa5903c62a58@104.223.94.251:9735",
+      "name":"Moon Banking API",
+      "description":"Get data about the crypto-freindliness of banks around the world with the Moon Banking API.",
+      "sector":"technology",
+      "digital_goods":"yes",
+      "added":1523750400
+   },
+   {
+      "href":"https://revealer.cc/",
+      "uri":"0264c1c5c416b481f4dfdc9b2fbfc7b56008461399fd3ee009dd677fd4d11a551f@95.216.3.56:9735",
+      "name":"Revealer",
+      "description":"Add a layer of security to your backups",
+      "digital_goods":"no, goods shipped",
+      "sector":"security",
+      "added":1523911325
+   },
+   {
+      "href":"https://tanjalo.com/",
+      "uri":"02f40890af885da4673f0ee9725ee74bb2c66d6491cc4334056a2701057993e61d@144.76.220.229:9735",
+      "name":"Tanjalo",
+      "description":"Buy bitcoin with nigerian naira.",
+      "digital_goods":"yes",
+      "sector":"exchange",
+      "added":1523911325,
+      "flags":{
+         "coming_soon":1
+      }
+   },
+   {
+      "href":"https://bitcoinsupermarkt.de/",
+      "uri":"02d0f53a403a0b16efdec1983a082ab7645e35858f6a855871e489c9992748a059@85.214.234.164:9735",
+      "name":"Bitcoin Supermarkt",
+      "description":"Buy jam and cat food, among other products.",
+      "digital_goods":"no, goods shipped",
+      "sector":"other",
+      "added":1523911325,
+      "size":"small",
+      "flags":{
+         "coming_soon":1
+      }
+   },
+   {
+      "href":"https://www.livingroomofsatoshi.com/",
+      "uri":"026b105ac13212c48714c6be9b11577a9ce10f10e1c88a45ce217e6331209faf8b@52.224.178.244:9735",
+      "name":"Living Room of Satoshi",
+      "description":"Pay Australian bills.",
+      "digital_goods":"yes",
+      "sector":"other",
+      "size":"big",
+      "added":1523911325
+   },
+   {
+      "href":"https://tokensoft.network/",
+      "uri":"unknown",
+      "name":"TokenSoft",
+      "description":"Whitelabel token sale platform (main website at https://www.tokensoft.io/).",
+      "digital_goods":"yes",
+      "sector":"other",
+      "added":1523911325,
+      "size":"small"
+   },
+   {
+      "href":"http://bight.nl/",
+      "uri":"033a6cfd3a7c3da838c152f667bd414712056599e323eda27597ab9517adac25f2@82.217.214.215:9735",
+      "name":"Bight.nl",
+      "description":"Buy handmade jewelry, play connect four, among other stuff.",
+      "digital_goods":"yes",
+      "sector":"other",
+      "added":1523911325,
+      "size":"small"
+   },
+   {
+      "href":"http://www.mendedheartsquilting.com/",
+      "uri":"unknown",
+      "name":"Mending Hearts Quilting",
+      "description":"Buy quilt quits and patterns (LN payments in store - Ellsworth, Iowa, USA).",
+      "digital_goods":"no, goods only in-store",
+      "sector":"other",
+      "added":1523911325,
+      "size":"small",
+	  "address":"3212 330th Street, Ellsworth, Iowa 50075"
+   },
+   {
+      "href":"http://zigzag.io",
+      "uri":"unknown",
+      "name":"ZigZag",
+      "description":"Lightning enabled cryptocurrency exchange.",
+      "digital_goods":"yes",
+      "sector":"exchange",
+      "added":1523911325,
+      "size":"big",
+      "flags":{
+         "coming_soon":1
+      }
+   },
+   {
+      "href":"http://classiccrustpizza.com/",
+      "uri":"unknown",
+      "name":"Classic Crust Pizza",
+      "description":"Pizzeria in Phoenix, USA (payments in store).",
+      "digital_goods":"no, goods only in-store",
+      "sector":"food",
+      "added":1523911325,
+      "size":"small",
+	  "address":"2150 E Cactus, Phoenix, AZ 85022"
+   },
+   {
+      "href":"https://www.bitwage.com/",
+      "uri":"unknown",
+      "name":"Bitwage",
+      "description":"Bitcoin payroll and international wage payment service.",
+      "added":1524510711,
+      "sector":"technology",
+      "digital_goods":"yes",
+      "flags":{
+         "coming_soon":1
+      }
+   },
+   {
+    "href":"https://trustlessapparel.com/",
+    "uri":"unknown",
+    "name":"Trustless",
+    "description":"Buy cryptocurrency themed T-shirts.",
+     "added":1524597736,
+    "sector":"clothing",
+     "digital_goods":"no, goods shipped"
+   },
+   {
+    "href":"https://hipptee.com/",
+    "uri":"unknown",
+    "name":"Hipptee",
+    "description":"Buy cryptocurrency themed T-shirts.",
+     "added":1524695352,
+    "sector":"clothing",
+     "digital_goods":"no, goods shipped",
+      "flags":{
+         "coming_soon":1
+      }
+   },
+   {
+      "href":"https://www.savouryeats.com/",
+      "uri":"03f929098f02467c33f79976f6a6939db1db785814b814821302304fa8692cf3f4@40.71.4.80:9735",
+      "name":"Savoury Eats - Mobile Kitchen",
+      "description":"Savoury Eats is a global style craft food truck in South Florida. Offering a rotating menu, online ordering and Bitcoin/Lightning payments.",
+      "added":1524967696,
+      "sector":"food",
+      "digital_goods":"no, goods only in-store",
+      "size":"small"
+   },
+   {
+      "href":"https://www.vaultoro.com/",
+      "uri":"unknown",
+      "name":"Vaultoro",
+      "description":"Exchange that has a bitcoin to gold trading pair.",
+      "added":1525455603,
+      "sector":"exchange",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://cmascremeras.store",
+      "uri":"024b8019795ec753fcdb1eb21ecd319bfab6a8b05e017f357dc5f052a181fb8c91@186.19.139.36:9735",
+      "name":"C+C Remeras",
+      "description":"Argentinian T-Shirts Lightning store.",
+      "added":1525823764,
+      "sector":"clothing",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://www.domorder.com/",
+      "uri":"03eac0761275c6848984bb7b17588ca2a3baa9c6585de9250bc317dd8ccb8a371a@185.228.136.234:9735",
+      "name":"DOMORDER",
+      "description":"Buy domains, hosting, vps, dedicated servers and more with BTC and LTC LN.",
+      "added":1526151182,
+      "sector":"technology",
+      "digital_goods":"yes"
+    },
+   {
+      "href":"https://bne.com.au/passenger/shop-dine-explore/dine/botanist-kitchen-and-bar",
+      "uri":"unknown",
+      "name":"The Botanist Kitchen and Bar",
+      "description":"Cafe-style meals in a relaxed and comfortable setting overlooking the runway at Brisbane Airport.",
+      "added":1526151182,
+      "sector":"food",
+      "digital_goods":"no, goods only in-store",
+	  "address":"32 Airport Dr, Brisbane Airport QLD 4008, Australia"
+   },
+   {
+      "href":"https://wearsmyliberty.com/",
+      "uri":"02693980abbb235d6e0cf513a7d8b08a35dbdd00f3f0e1c43add27f734242438ee@104.209.149.181:9735",
+      "name":"Wears my Liberty",
+      "description":"Liberty shirts, hats, hoodies & more.",
+      "added":1526151182,
+      "sector":"clothing",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"http://www.9bravos.com.br/loja/",
+      "uri":"unknown",
+      "name":"9Bravos",
+      "description":"Brazilian book store.",
+      "added":1526758473,
+      "sector":"other",
+      "digital_goods":"no, goods shipped"
+   },
+   {
+      "href":"https://lightningconductor.net/",
+      "uri":"03c436af41160a355fc1ed230a64f6a64bcbd2ae50f12171d1318f9782602be601@mainnet.lightningconductor.net:9735",
+      "name":"Lightning Conductor",
+      "description":"Convert lightning bitcoin to on-chain bitcoin and vice-versa.",
+      "added":1526758473,
+      "sector":"other",
+      "digital_goods":"yes"
+   },
+   {
+      "href": "https://peername.com/",
+      "uri": "unknown",
+      "name": "PeerName",
+      "description": "Blockchain-Based Domain Names Registrar.",
+      "sector":"technology",
+      "size":"big",
+      "added":1527345565,
+      "digital_goods":"yes"
+   }
+]
