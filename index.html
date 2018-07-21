@@ -11,7 +11,8 @@
         <script src="js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         <script src="js/main.js"></script>
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    
+		<!-- <link rel="icon" href="./favicon.ico" /> -->
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74119866-1"></script>
 	<script>
@@ -62,21 +63,37 @@
 			   }
 
 		.dropdown { margin-right: 1em; }
-		<!--.text-muted {margin-bottom: 1px; } -->
 	</style>
 	
     </head>
+
     <body>
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#">Resources:</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+			aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+					<a class="nav-item nav-link active" href="#">Mainnet
+						<span class="sr-only">(current)</span>
+					</a>
+					<a class="nav-item nav-link" href="http://lightningnetworkstores.com/testnet">Testnet</a>
+					<a class="nav-item nav-link" href="http://lightningnetworkstores.com/wallets">Lightning wallets</a>
+					<a class="nav-item nav-link" href="http://lightningnetworkstores.com/donations">Donation addresses</a>
+					<a class="nav-item nav-link disabled" href="#">Services</a>
+					<a class="nav-item nav-link" href="http://lightningnetworkstores.com/about">About</a>
+				</div>
+			</div>
+		</nav>
 
     <div class="container">
         <div class="text-center" id="banner">
             <h1 id="title"><i class="fa fa-bolt"></i> Mainnet lightning network stores <i class="fa fa-bolt"></i></h1>
         </div>
         <hr>
-        <p><strong>Warning:</strong> Lightning network software is still in beta phase, so it is recommended to use small amounts of money. For testing, use the testnet. A list of lightning network stores for the testnet can be found <a href="https://lightningnetworkstores.github.io/testnet">here</a>.</p>
-        <hr>
-	<p>If you are not a technical user, you can make lightning payments with <a href="https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en">eclair wallet for android</a></p>
-	<hr>
 	
 	<div class="btn-group">
 
@@ -90,6 +107,7 @@
 		<a class="dropdown-item" href="#">clothing</a>
 		<a class="dropdown-item" href="#">exchange</a>
 		<a class="dropdown-item" href="#">food</a>
+		  <a class="dropdown-item" href="#">games&casino</a>
 		<a class="dropdown-item" href="#">other</a>
 		<a class="dropdown-item" href="#">all</a>
 	  </div>
@@ -113,22 +131,7 @@
 	</div>
 	
 	<br>
-	
-	<div class="dropdown">
-	  <button class="btn btn-secondary dropdown-toggle" type="button" id="SizeDropdownButton" data-toggle="Sector" aria-haspopup="true" aria-expanded="false" onclick="showListOptionsSizes()">
-		Size: big
-	  </button>
-	  <div id="sizes" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-		<a class="dropdown-item" href="#">small</a>
-		<a class="dropdown-item" href="#">big</a>
-		<a class="dropdown-item" href="#">all</a>
-	  </div>
-	  <button type="button" class="btn btn-secondary" data-toggle="tooltip" data-placement="top" data-html="true" title="A small store is a store that sells five goods or less or has an Alexa traffic rank worse than 1MM">
-	  ?
-	</button>
-	</div>
-	
-	<br>
+
 	
 	<div class="dropdown">
 	  <button class="btn btn-secondary dropdown-toggle" type="button" id="NewDropdownButton" data-toggle="Sector" aria-haspopup="true" aria-expanded="false" onclick="showListOptionsNew()">
@@ -150,14 +153,12 @@
         <div id="main-content">
         </div>
 
+		<h1 class="text-info">Coming Soon?</h1>
+		<br>
         <div id="soon-content">
-            <h1 class="text-info">Coming Soon?</h1>
+
             <br>
         </div>
-
-        <h5>Know a store that is not listed here? <a href="https://github.com/lightningnetworkstores/lightningnetworkstores.github.io">Add it to the git repository</a> or send an email to lightningnetworkstores@gmail.com</h5>
-
-        <h5>For other lightning network resources visit <a href="https://lnroute.com/">LNroute</a> or <a href="http://lopp.net/bitcoin.html">Lopp.net</a></h5>
     </div>
     </body>
 </html>

@@ -1,0 +1,72 @@
+[
+  {
+    "name":"eclair wallet",
+    "page":"https://github.com/ACINQ/eclair-wallet",
+    "android":"https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en",
+    "android_testnet":"https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet&hl=en",
+    "open_source":"https://github.com/ACINQ/eclair-wallet",
+    "release":"April 2018"
+  },
+  {
+    "name":"bitcoin lightning wallet",
+    "page":"http://lightning-wallet.com/",
+    "android":"https://play.google.com/store/apps/details?id=com.lightning.walletapp",
+    "android_testnet":"https://play.google.com/store/apps/details?id=com.lightning.wallet",
+    "open_source":"https://github.com/btcontract/lnwallet",
+    "release":"May 2018"
+  },
+  {
+    "name":"rawtx",
+    "page":"https://rawtx.com/",
+    "android_testnet":"https://play.google.com/store/apps/details?id=com.rtxwallet",
+    "iOS_testnet":"https://itunes.apple.com/us/app/rawtx-lightning-wallet/id1397117908?ls=1&mt=8",
+    "open_source":"https://github.com/rawtxapp/rawtxapp"
+  },
+  {
+    "name":"CoinClip",
+    "iOS_testnet":"https://itunes.apple.com/us/app/coinclip-testnet/id1372927440",
+    "page":"https://itunes.apple.com/us/app/coinclip-testnet/id1372927440"
+  },
+  {
+    "name":"SwiftLightning",
+    "page":"https://www.swiftlightning.io/",
+    "open_source":"https://github.com/biscottigelato/SwiftLightning/",
+    "iOS_testnet_closed":"https://swiftlightning.herokuapp.com/"
+  },
+  {
+    "name":"Shango",
+    "page":"https://github.com/neogeno/shango-lightning-wallet",
+    "android_testnet_closed":"http://www.shangoapp.com/insider",
+    "iOS_testnet_closed":"http://www.shangoapp.com/insider"
+  },
+  {
+    "name":"Cipherbook",
+    "page":"https://www.cryptotec.com/cipherbook/"
+  },
+  {
+    "name":"Thin wallet",
+    "page":"https://www.lndthinwallet.com/",
+    "iOS":"https://itunes.apple.com/us/app/lnd-thin-wallet/id1375747279",
+    "requires_node":"yes",
+    "release":"April 2018"
+  },
+  {
+  "name":"CoinOS",
+  "page":"https://coinos.io",
+   "open_source":"https://github.com/asoltys/coinos.io",
+   "android_testnet":"https://play.google.com/store/apps/details?id=io.cordova.coinos"
+  },
+    {
+    "name":"Shock Wallet",
+    "page":"https://shocknet.github.io",
+    "requires_node":"yes",
+    "release":"August 2018"
+    },
+   {
+    "name":"Fulmo",
+    "page":"https://github.com/marzig76/fulmo",
+    "requires_node":"yes",
+    "open_source":"https://github.com/marzig76/fulmo",
+    "release":"July 2018"
+  }
+]
