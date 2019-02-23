@@ -954,5 +954,15 @@
     "description": "Really random stuff",
     "sector": "other",
     "added": 1549036544
+  },
+  {
+    "id": 242,
+    "name": "Game Arcade99",
+    "href": "http://wine.com",
+    "uri": "unknown",
+    "description": "Play some gays and stuff.",
+    "sector": "games&casino",
+    "digital_goods": "yes",
+    "added": 1550953728
   }
 ]
