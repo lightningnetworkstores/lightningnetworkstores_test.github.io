@@ -974,5 +974,15 @@
     "sector": "games&casino",
     "digital_goods": "yes",
     "added": 1550954624
+  },
+  {
+    "id": 252,
+    "name": "Sweet supplements",
+    "href": "http://drugs.com",
+    "uri": "unknown",
+    "description": "Some cool supplements wink wink.",
+    "sector": "drugs&supplements",
+    "digital_goods": "no, goods shipped",
+    "added": 1550955904
   }
 ]
