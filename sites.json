@@ -964,5 +964,15 @@
     "sector": "games&casino",
     "digital_goods": "yes",
     "added": 1550953728
+  },
+  {
+    "id": 247,
+    "name": "Game Arcade98",
+    "href": "http://water.com",
+    "uri": "unknown",
+    "description": "Play some gays and stuff.",
+    "sector": "games&casino",
+    "digital_goods": "yes",
+    "added": 1550954624
   }
 ]
