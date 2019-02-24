@@ -984,5 +984,15 @@
     "sector": "drugs&supplements",
     "digital_goods": "no, goods shipped",
     "added": 1550955904
+  },
+  {
+    "id": 257,
+    "name": "Techy store",
+    "href": "http://technology.com",
+    "uri": "unknown",
+    "description": "Buy eletronic stuff dude.",
+    "sector": "technology",
+    "digital_goods": "no, goods shipped",
+    "added": 1551023104
   }
 ]
