@@ -33,7 +33,7 @@
     "id": 4,
     "href": "https://mainnet.yalls.org/",
     "uri": "03e50492eab4107a773141bb419e107bda3de3d55652e6e1a41225f06a0bbf2d56@mainnet-lnd.yalls.org",
-    "name": "Y'alls",
+    "name": "Y\u0027alls",
     "description": "Buy and sell articles with other members",
     "sector": "other",
     "digital_goods": "yes",
@@ -118,7 +118,7 @@
       "coming_soon": 1
     },
     "digital_goods": "yes",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "added": 1521147592
   },
   {
@@ -152,7 +152,7 @@
   },
   {
     "id": 16,
-    "href": "https://btcduke.com/?lang=en",
+    "href": "https://btcduke.com/?lang\u003den",
     "uri": "0328fbda8c1efcdb5ef375742710de71b9bcc93dbb16af22e2cf3ac84eea47dab2@80.211.252.104:9735",
     "name": "BTC Duke",
     "description": "Cryptocurrency exchange that supports bitcoin lightning deposits/withdrawals",
@@ -359,7 +359,7 @@
     "href": "https://wearsmyliberty.com/",
     "uri": "03df95ed69a109deeb71d3dabe9b9a289ab561fa731c8fc853d1c70847597933e3@btcpay.wearsmyliberty.com",
     "name": "Wears My Liberty",
-    "description": "Liberty shirts, Hats, Hoodies & More",
+    "description": "Liberty shirts, Hats, Hoodies \u0026 More",
     "added": 1526151182,
     "sector": "clothing",
     "digital_goods": "no, goods shipped"
@@ -430,7 +430,7 @@
     "uri": "024655b768ef40951b20053a5c4b951606d4d86085d51238f2c67c7dec29c792ca@88.98.213.235:9735",
     "name": "Satoshi place",
     "description": "Online collaborative artboard.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "added": 1528514579,
     "digital_goods": "yes"
   },
@@ -440,7 +440,7 @@
     "uri": "033533e2db6311c1d417d41279c067d8713ad8a7d577a0d91e65df2f6a82c5b862@165.227.167.162:9735",
     "name": "Art of Lightning",
     "description": "Online Graffiti Wall",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "added": 1528773866,
     "digital_goods": "yes"
   },
@@ -473,7 +473,7 @@
     "uri": "03295d2e292565743a40bd44da227a820f8730877bc3dfadebade8785bcf355258@159.203.122.47:9735",
     "name": "Moneni",
     "description": "Casino and mini-games.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1529602555
   },
@@ -483,7 +483,7 @@
     "uri": "unknown",
     "name": "Poketoshi",
     "description": "Play pokemon emerald.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1529973871
   },
@@ -492,8 +492,8 @@
     "href": "http://bitcoinplays.io/",
     "uri": "0374ecf61ed6c1208c42339f47decde2bc0c4393ac95f07827b3471e939d7eb961@54.37.22.216:9735",
     "name": "Bitcoin Plays",
-    "description": "Play pokemon yellow (1 move=1 satoshi).",
-    "sector": "games&casino",
+    "description": "Play pokemon yellow (1 move\u003d1 satoshi).",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1529973871
   },
@@ -502,7 +502,7 @@
     "href": "https://cloudsight.ai/",
     "uri": "unknown",
     "name": "Cloud Sight",
-    "description": " An image recognition API providing true understanding for your digital media(<a href='https://gist.github.com/mccallumjack/947380f24163d5b86ac4d9be9be97462'>lightning API documentation</a>)",
+    "description": " An image recognition API providing true understanding for your digital media(\u003ca href\u003d\u0027https://gist.github.com/mccallumjack/947380f24163d5b86ac4d9be9be97462\u0027\u003elightning API documentation\u003c/a\u003e)",
     "sector": "technology",
     "digital_goods": "yes",
     "added": 1529977711
@@ -534,7 +534,7 @@
     "name": "Lightning Spin",
     "description": "Provably fair lightning roulette.",
     "added": 1530063594,
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes"
   },
   {
@@ -593,7 +593,7 @@
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "name": "Thunder Pick",
     "description": "eSports betting platform.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1530566805
   },
@@ -613,7 +613,7 @@
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "name": "MMOGA",
     "description": "Buy in-game currencies (FIFA Coins, WoW Gold, ...), game keys and items.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1530572250
   },
@@ -752,7 +752,7 @@
     "name": "HomeTicker",
     "href": "https://hometicker.shop/",
     "uri": "unknown",
-    "description": "A personal desk display that can display bitcoin's price.",
+    "description": "A personal desk display that can display bitcoin\u0027s price.",
     "sector": "other",
     "digital_goods": "no, goods shipped",
     "added": 1531711488
@@ -859,7 +859,7 @@
   },
   {
     "id": 142,
-    "name": "Digitadiko",
+    "name": "Digitadiko-changeName",
     "href": "http://digitadiko.com",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Hosting and multi-hosting vouchers, other digital products.",
@@ -912,7 +912,7 @@
     "href": "https://mandelduck.io/beta-game/",
     "uri": "unknown",
     "description": "Play SaruTobi arcade game",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "added": 1532158464
   },
   {
@@ -961,7 +961,7 @@
     "href": "http://wine.com",
     "uri": "unknown",
     "description": "Play some gays and stuff.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1550953728
   },
@@ -971,7 +971,7 @@
     "href": "http://water.com",
     "uri": "unknown",
     "description": "Play some gays and stuff.",
-    "sector": "games&casino",
+    "sector": "games\u0026casino",
     "digital_goods": "yes",
     "added": 1550954624
   },
@@ -981,7 +981,7 @@
     "href": "http://drugs.com",
     "uri": "unknown",
     "description": "Some cool supplements wink wink.",
-    "sector": "drugs&supplements",
+    "sector": "drugs\u0026supplements",
     "digital_goods": "no, goods shipped",
     "added": 1550955904
   },
@@ -1044,5 +1044,14 @@
     "sector": "technology",
     "digital_goods": "yes",
     "added": 1551059840
+  },
+  {
+    "id": 287,
+    "name": "Something random17",
+    "href": "http://floor.com",
+    "uri": "unknown",
+    "description": "Floors and stuff",
+    "sector": "other",
+    "added": 1552083072
   }
 ]
