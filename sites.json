@@ -1072,5 +1072,15 @@
     "sector": "technology",
     "digital_goods": "no, goods shipped",
     "added": 1552155648
+  },
+  {
+    "id": 302,
+    "name": "Lenovo",
+    "href": "http://lenovo.com",
+    "uri": "unknown",
+    "description": "ASijdf sadfsdf",
+    "sector": "technology",
+    "digital_goods": "no, goods shipped",
+    "added": 1552156160
   }
 ]
