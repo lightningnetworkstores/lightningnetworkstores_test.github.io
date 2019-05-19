@@ -357,7 +357,7 @@
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "name": "Bitlaunch",
     "description": "Launch VPS from Digital Ocean, Vultr and Linode",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1530029260
   },
@@ -407,7 +407,7 @@
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "name": "Bacloud",
     "description": "Dedicated servers, Windows/Linux VPS, free hosting domain setup.",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1530499360
   },
@@ -557,7 +557,7 @@
     "href": "https://crowncloud.net/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "VPSes, dedicated servers and colocation services. ",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1531711232
   },
@@ -577,7 +577,7 @@
     "href": "https://www.licensepal.com/",
     "uri": "unknown",
     "description": "Web hosting software license reseller.",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1531766528
   },
@@ -597,7 +597,7 @@
     "href": "http://www.routerhosting.com/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Linux and Windows VPS servers including SSD VPS and storage servers.",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1531772544
   },
@@ -677,7 +677,7 @@
     "href": "http://www.lavavps.lt/en/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "VPS hosting, domains, SSL certificates.",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1531774848
   },
@@ -1221,7 +1221,7 @@
     "href": "https://www.forexvps.net/",
     "uri": "unknown",
     "description": "Reliable Forex VPS",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1539654528
   },
@@ -1665,7 +1665,7 @@
     "href": "https://cryptoho.st/",
     "uri": "03c492f46d8e0a6256bb9c5c42f2aed24717f70a3f39e0961419dee511688e3110@lightning-network.ro:9735",
     "description": "Virtual Private Server (VPS) Shop",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1547441801
   },
@@ -2028,7 +2028,7 @@
     "href": "https://thcservers.com",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Cheap web hosting.",
-    "sector": "technology",
+    "sector": "vps&web hosting",
     "digital_goods": "yes",
     "added": 1551117312
   },
