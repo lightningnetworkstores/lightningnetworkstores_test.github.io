@@ -2781,5 +2781,15 @@
     "sector": "vps",
     "digital_goods": "yes",
     "added": 1558282624
+  },
+  {
+    "id": 1812,
+    "name": "testing window close",
+    "href": "https://www.bitmex.com/",
+    "uri": "undefined",
+    "description": "sdfkj sdpfoij ",
+    "sector": "technology",
+    "digital_goods": "yes",
+    "added": 1558283648
   }
 ]
