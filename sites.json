@@ -647,7 +647,7 @@
     "href": "http://rentvip.it/en/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Rent ski equipment and mountain bikes (Livigno, Italy).",
-    "sector": "other",
+    "sector": "fitness&sports",
     "digital_goods": "no, goods only in-store",
     "added": 1531773568
   },
@@ -883,7 +883,7 @@
     "href": "https://bikebeltline.com",
     "uri": "02b3877314aff657216ceac039244fe94e7116af10cfffac0232fefa5903c62a58@104.223.94.251:9735",
     "description": "Buy bike parts and accessories at BikeBeltline.",
-    "sector": "other",
+    "sector": "fitness&sports",
     "added": 1536635264
   },
   {
@@ -1162,7 +1162,7 @@
     "href": "https://www.lecyclosportif.com.au",
     "uri": "unknown",
     "description": "Noosa Cycling \u0026 Triathlon Specialists",
-    "sector": "other",
+    "sector": "fitness&sports",
     "added": 1539125632
   },
   {
@@ -1348,7 +1348,7 @@
     "href": "https://www.empowermindbodylife.com/shop/",
     "uri": "02f9c7deb297e32fc3d3d55f336176055cd667a2fada0bd5663e7413e1aba55b86@66.110.250.130:9735",
     "description": "Yoga Training, Attire and other fitness goods",
-    "sector": "other",
+    "sector": "fitness&sports",
     "digital_goods": "no, goods shipped",
     "added": 1542418432
   },
@@ -1874,7 +1874,7 @@
     "href": "http://paraeasy.ch",
     "uri": "03a46be38d068c2bc5af3fc13da840790ed5643f3d6d27e5e34d67ed2aec16ce67@ulrichard.ch:9735",
     "description": "paragliding tandem flights in central Switzerland",
-    "sector": "other",
+    "sector": "fitness&sports",
     "digital_goods": "no, goods shipped",
     "added": 1549921408
   },
