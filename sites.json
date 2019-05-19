@@ -602,16 +602,6 @@
     "added": 1531772544
   },
   {
-    "id": 107,
-    "name": "Future Hosting",
-    "href": "http://www.futurehosting.ie/",
-    "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
-    "description": "Shared hosting, VPS hosting, domain registration, SSL sertificates and other web hosting solutions. ",
-    "sector": "technology",
-    "digital_goods": "yes",
-    "added": 1531772672
-  },
-  {
     "id": 112,
     "name": "Webpundits",
     "href": "https://webpundits.in/",
@@ -1341,16 +1331,6 @@
     "sector": "technology",
     "digital_goods": "no, goods shipped",
     "added": 1542032768
-  },
-  {
-    "id": 672,
-    "name": "YOVO Pay",
-    "href": "https://yovopay.com/",
-    "uri": "unknown",
-    "description": "Top up your mobile phone with 40+ cryptocurrencies and alt‑coins.",
-    "sector": "other",
-    "digital_goods": "yes",
-    "added": 1542159232
   },
   {
     "id": 677,
@@ -2783,13 +2763,13 @@
     "added": 1557495808
   },
   {
-    "id": 1717,
+    "id": 1802,
     "name": "MeterVPN",
-    "href": "https://metervpn.com/",
-    "uri": "undefined",
-    "description": "Pay-per-hour WireGuard VPN",
+    "href": "https://metervpn.com",
+    "uri": "0246bf8422ee28ce098f77490d215564fea83cb000de8a9de7953926a4a169f3f1@159.89.121.214:9735",
+    "description": "Pay-per-hour WireGuard VPN.",
     "sector": "technology",
     "digital_goods": "yes",
-    "added": 1558207872
+    "added": 1558218496
   }
 ]
