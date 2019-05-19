@@ -357,7 +357,7 @@
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "name": "Bitlaunch",
     "description": "Launch VPS from Digital Ocean, Vultr and Linode",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1530029260
   },
@@ -407,7 +407,7 @@
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "name": "Bacloud",
     "description": "Dedicated servers, Windows/Linux VPS, free hosting domain setup.",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1530499360
   },
@@ -557,7 +557,7 @@
     "href": "https://crowncloud.net/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "VPSes, dedicated servers and colocation services. ",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1531711232
   },
@@ -577,7 +577,7 @@
     "href": "https://www.licensepal.com/",
     "uri": "unknown",
     "description": "Web hosting software license reseller.",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1531766528
   },
@@ -597,7 +597,7 @@
     "href": "http://www.routerhosting.com/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Linux and Windows VPS servers including SSD VPS and storage servers.",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1531772544
   },
@@ -647,7 +647,7 @@
     "href": "http://rentvip.it/en/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Rent ski equipment and mountain bikes (Livigno, Italy).",
-    "sector": "fitness&sports",
+    "sector": "fitness\u0026sports",
     "digital_goods": "no, goods only in-store",
     "added": 1531773568
   },
@@ -677,7 +677,7 @@
     "href": "http://www.lavavps.lt/en/",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "VPS hosting, domains, SSL certificates.",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1531774848
   },
@@ -883,7 +883,7 @@
     "href": "https://bikebeltline.com",
     "uri": "02b3877314aff657216ceac039244fe94e7116af10cfffac0232fefa5903c62a58@104.223.94.251:9735",
     "description": "Buy bike parts and accessories at BikeBeltline.",
-    "sector": "fitness&sports",
+    "sector": "fitness\u0026sports",
     "added": 1536635264
   },
   {
@@ -1162,7 +1162,7 @@
     "href": "https://www.lecyclosportif.com.au",
     "uri": "unknown",
     "description": "Noosa Cycling \u0026 Triathlon Specialists",
-    "sector": "fitness&sports",
+    "sector": "fitness\u0026sports",
     "added": 1539125632
   },
   {
@@ -1221,7 +1221,7 @@
     "href": "https://www.forexvps.net/",
     "uri": "unknown",
     "description": "Reliable Forex VPS",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1539654528
   },
@@ -1348,7 +1348,7 @@
     "href": "https://www.empowermindbodylife.com/shop/",
     "uri": "02f9c7deb297e32fc3d3d55f336176055cd667a2fada0bd5663e7413e1aba55b86@66.110.250.130:9735",
     "description": "Yoga Training, Attire and other fitness goods",
-    "sector": "fitness&sports",
+    "sector": "fitness\u0026sports",
     "digital_goods": "no, goods shipped",
     "added": 1542418432
   },
@@ -1665,7 +1665,7 @@
     "href": "https://cryptoho.st/",
     "uri": "03c492f46d8e0a6256bb9c5c42f2aed24717f70a3f39e0961419dee511688e3110@lightning-network.ro:9735",
     "description": "Virtual Private Server (VPS) Shop",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1547441801
   },
@@ -1874,7 +1874,7 @@
     "href": "http://paraeasy.ch",
     "uri": "03a46be38d068c2bc5af3fc13da840790ed5643f3d6d27e5e34d67ed2aec16ce67@ulrichard.ch:9735",
     "description": "paragliding tandem flights in central Switzerland",
-    "sector": "fitness&sports",
+    "sector": "fitness\u0026sports",
     "digital_goods": "no, goods shipped",
     "added": 1549921408
   },
@@ -2028,7 +2028,7 @@
     "href": "https://thcservers.com",
     "uri": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3@18.184.237.59:9735",
     "description": "Cheap web hosting.",
-    "sector": "vps&web hosting",
+    "sector": "vps\u0026web hosting",
     "digital_goods": "yes",
     "added": 1551117312
   },
@@ -2771,5 +2771,15 @@
     "sector": "technology",
     "digital_goods": "yes",
     "added": 1558218496
+  },
+  {
+    "id": 1807,
+    "name": "testing",
+    "href": "https://vuetifyjs.com",
+    "uri": "undefined",
+    "description": "skjdf sdlkfj",
+    "sector": "vps",
+    "digital_goods": "yes",
+    "added": 1558282624
   }
 ]
