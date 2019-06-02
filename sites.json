@@ -2831,5 +2831,15 @@
     "sector": "clothing",
     "digital_goods": "no, goods only in-store",
     "added": 1559486976
+  },
+  {
+    "id": 1882,
+    "name": "testing ignore",
+    "href": "https://www.incognito.london/",
+    "uri": "undefined",
+    "description": "Please ignore",
+    "sector": "games\u0026casino",
+    "digital_goods": "no, goods only in-store",
+    "added": 1559488128
   }
 ]
