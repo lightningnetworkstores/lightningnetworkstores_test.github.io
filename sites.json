@@ -2821,5 +2821,15 @@
     "sector": "security",
     "digital_goods": "no, goods shipped",
     "added": 1559486720
+  },
+  {
+    "id": 1857,
+    "name": "testing9",
+    "href": "https://www.dict.cc",
+    "uri": "undefined",
+    "description": "Please ignore",
+    "sector": "clothing",
+    "digital_goods": "no, goods only in-store",
+    "added": 1559486976
   }
 ]
