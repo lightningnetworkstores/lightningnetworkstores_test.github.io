@@ -2841,5 +2841,15 @@
     "sector": "games\u0026casino",
     "digital_goods": "no, goods only in-store",
     "added": 1559488128
+  },
+  {
+    "id": 1887,
+    "name": "asdasd",
+    "href": "https://de.wiktionary.org",
+    "uri": "undefined",
+    "description": "asd asdasdasd",
+    "sector": "clothing",
+    "digital_goods": "yes",
+    "added": 1559488384
   }
 ]
