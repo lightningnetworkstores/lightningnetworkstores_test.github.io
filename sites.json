@@ -2961,5 +2961,15 @@
     "sector": "exchange",
     "digital_goods": "no, goods shipped",
     "added": 1559590400
+  },
+  {
+    "id": 2002,
+    "name": "ignore please2",
+    "href": "https://www.the-qrcode-generator.com/",
+    "uri": "undefined",
+    "description": "testing please ignore",
+    "sector": "clothing",
+    "digital_goods": "no, goods only in-store",
+    "added": 1559590400
   }
 ]
